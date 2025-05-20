@@ -1,0 +1,9 @@
+# Librerie principali
+streamlit==1.17.0
+scikit-learn==1.2.2
+pandas==1.5.3
+matplotlib==3.7.1
+numpy==1.24.3
+
+# Eventuali dipendenze aggiuntive (opzionali)
+# seaborn==0.12.2  # Per visualizzazioni più avanzate (scommenta se serve)
